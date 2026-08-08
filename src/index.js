@@ -1,6 +1,9 @@
 //Here is a comment for trivial edit
 function sayHi(name) {
-  return `Hello there ${name}`
+
+  return `Hello ${name}`
 }
 
 module.exports = sayHi
+
+
